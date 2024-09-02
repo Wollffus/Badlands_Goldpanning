@@ -12,11 +12,6 @@ The experience every server needs !!!
 ## Requirements
 
 |Requirements |RedEM:RP, redemrp_notification|
-|---|---|
-|Subscription based |No|
-|Code accessible |No|
-|Lines (approximately) |130|
-|Support |Yes|(discord.gg/zGVDppYxfk)
 
 - (https://github.com/RedEM-RP/redem_roleplay)
 - (https://github.com/Wollffus/redemrp_notification) -- Forked version
